@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gmaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="MenuButton">Menu</string>
+
+    <!--Menu-->
+    <string name="action_settings">Settings</string>
+    <string name="PrevDay">Previous Day</string>
+    <string name="Today">Today</string>
+    <string name="NxtDay">Next Day</string>
+    <string name="EditButton">Edit</string>
+    <string name="title_activity_edit_pg">EditPg</string>
+
+    <!--Edit page-->
+    <string name="MButton">M</string>
+    <string name="TuButton">Tu</string>
+    <string name="WButton">W</string>
+    <string name="ThButton">Th</string>
+    <string name="FButton">F</string>
+    <string name="SatButton">Sa</string>
+    <string name="SunButton">Su</string>
+
+</resources>
